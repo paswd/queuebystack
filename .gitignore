@@ -30,4 +30,5 @@
 
 # Debug files
 *.dSYM/
-*.su
+lab24
+!/lib/*.a
